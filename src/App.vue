@@ -1,7 +1,7 @@
 <template>
 <div class="col-sm-12" :style="{'background-image': 'url(' + require('./assets/business-office-sunset-architecture-building.jpg') + ')'}">
 <div class="col-sm-12" style="padding-left: 5%; padding-top: 2%; padding-bottom: 2%;">
-  <h1>{{titulo}}</h1>
+  <h1 style="font-size=125%">{{titulo}}</h1>
 </div>
 <div class="row" style="font-size:130%">
 <form-user></form-user>
